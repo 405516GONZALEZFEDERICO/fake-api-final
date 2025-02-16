@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "hostName": "Laptop-001",
+    "createdDate": "2024-06-20T10:15:30",
+    "os": "Windows 11",
+    "macAddress": "00:1A:2B:3C:4D:5E",
+    "type": "LAPTOP"
+  },
+  {
+    "id": 2,
+    "hostName": "Desktop-002",
+    "createdDate": "2024-06-19T08:45:00",
+    "os": "Windows 10",
+    "macAddress": "00:1B:2C:3D:4E:5F",
+    "type": "DESKTOP"
+  },
+  {
+    "id": 3,
+    "hostName": "Tablet-Pro-003",
+    "createdDate": "2024-06-18T14:30:20",
+    "os": "Android 13",
+    "macAddress": "00:1C:2D:3E:4F:5G",
+    "type": "TABLET"
+  },
+  {
+    "id": 4,
+    "hostName": "iPhone-004",
+    "createdDate": "2024-06-17T21:10:45",
+    "os": "iOS 17",
+    "macAddress": "00:1D:2E:3F:4G:5H",
+    "type": "SMARTPHONE"
+  },
+  {
+    "id": 5,
+    "hostName": "Laptop-005",
+    "createdDate": "2024-06-16T13:25:50",
+    "os": "Ubuntu 22.04",
+    "macAddress": "00:1E:2F:3G:4H:5I",
+    "type": "LAPTOP"
+  },
+  {
+    "id": 6,
+    "hostName": "Desktop-006",
+    "createdDate": "2024-06-15T09:40:10",
+    "os": "Windows 11",
+    "macAddress": "00:1F:2G:3H:4I:5J",
+    "type": "DESKTOP"
+  },
+  {
+    "id": 7,
+    "hostName": "Tablet-Mini-007",
+    "createdDate": "2024-06-14T17:55:30",
+    "os": "iPadOS 16",
+    "macAddress": "00:2A:3B:4C:5D:6E",
+    "type": "TABLET"
+  },
+  {
+    "id": 8,
+    "hostName": "Samsung-Galaxy-008",
+    "createdDate": "2024-06-13T22:10:05",
+    "os": "Android 12",
+    "macAddress": "00:2B:3C:4D:5E:6F",
+    "type": "SMARTPHONE"
+  },
+  {
+    "id": 9,
+    "hostName": "Laptop-Gaming-009",
+    "createdDate": "2024-06-12T11:05:45",
+    "os": "Windows 10",
+    "macAddress": "00:2C:3D:4E:5F:6G",
+    "type": "LAPTOP"
+  },
+  {
+    "id": 10,
+    "hostName": "Workstation-010",
+    "createdDate": "2024-06-11T15:20:30",
+    "os": "macOS Ventura",
+    "macAddress": "00:2D:3E:4F:5G:6H",
+    "type": "DESKTOP"
+  }
+]
