@@ -1,5 +1,5 @@
 {
-[
+devices: [
   {
     "id": 1,
     "hostName": "Laptop-001",
